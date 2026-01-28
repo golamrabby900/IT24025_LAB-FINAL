@@ -39,7 +39,7 @@ public class Main {
         System.out.println("Name: " + s1.getName());
         System.out.println("CGPA: " + s1.getCgpa());
 
-        s1.setCgpa(4.5); // Invalid
+        s1.setCgpa(4.5); 
     }
 }
 
